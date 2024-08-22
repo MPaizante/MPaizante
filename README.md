@@ -4,9 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-paizante-174a35112/)
 
 
-![MPaizante GitHub stats](https://github-readme-stats.vercel.app/api?username=MPaizante&show_icons=true&theme=tokyonight)
+![MPaizante GitHub stats](https://github-readme-stats.vercel.app/api?username=MPaizante&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPaizante&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPaizante&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+
 
 
 
@@ -30,4 +33,4 @@
  
 
 </div><br/>
-Estou iniciando minha jornada com muita dedicação e amor pela tecnologia.
+I'm starting my journey with a lot of dedication and love for technology.
